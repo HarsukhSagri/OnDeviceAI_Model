@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/dataset/output/yolo/train
+val: /content/drive/MyDrive/dataset/output/yolo/val
+
+nc: 9
+names: ['Name', 'DOB', 'Gender', 'AadhaarNumber', 'IDNumber', 'Address', 'RegistrationNumber', 'CountryName', 'IssueDate']
