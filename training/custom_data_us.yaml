@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/dataset_us/output/yolo/train
+val: /content/drive/MyDrive/dataset_us/output/yolo/val
+
+nc: 10
+names: ['First_Name', 'Last_Name', 'DLNumber', 'Address', 'DOB', 'ExpiryDate', 'IssueDate', 'Sex', 'Class', 'Name']
